@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="en-gb" http-equiv="Content-Language">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- #BeginEditable "doctitle" -->
+<title>Homepage | The Online World | Di</title>
+<!-- #EndEditable -->
+</head>
+
+<body style="font-family: Arial, Helvetica, sans-serif; margin-right: auto; margin-left: auto; width: 960px">
+
+<p>
+<img alt="portfolio banner" height="260" src="images/Digital_Portfolio_banner.png" width="960"></p>
+<p style="text-align: right"><a href="index.htm">Homepage </a>| 
+<a href="online_1.htm">The Online World</a> |
+<a href="graphics_6.htm">Digital Graphics</a> |
+<a href="spreadsheet_9.htm">Spreadsheet Development </a>|
+<a href="life.htm">Life Skills</a> |
+<a href="social.htm">Social Communication</a></p>
+<!-- #BeginEditable "body" -->
+<p>
+	content here</p>
+<!-- #EndEditable -->
+
+</body>
+
+</html>
